@@ -20,7 +20,7 @@
   },
   "Portfolio": [
     {
-      "title": "Project Title",
+      "title": "This is a real declaration of independence",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
@@ -68,23 +68,23 @@
   "Strategy": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Suckin Dick",
-      "text": "Dick Suckin"
+      "name": "Karl",
+      "text": "Is"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Suckin Dick",
-      "text": "Dick Suckin"
+      "name": "A",
+      "text": "big fat"
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Suckin Dick",
-      "text": "Dick Suckin"
+      "name": "doodoo",
+      "text": "head"
     },
     {
       "icon": "fa fa-language",
-      "name": "Suckin Dick",
-      "text": "Dick Suckin"
+      "name": "lol",
+      "text": "nerd"
     },
     {
       "icon": "fa fa-plane",
@@ -93,68 +93,28 @@
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Pussy Eatin",
-      "text": "Eatin Pussy"
+      "name": "he's",
+      "text": "stealing the declaration of independence"
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Wow, I didn't know anybody offered the Declaration of Independence for sale. I think this is a real copy!. I know because it has the big THE at the beginning. You know, the THE??\"",
+      "name": "Big Dumb"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Mega Dumb",
+      "job": "Eat his boogies,"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "DEEP IN THE HEART OF TEJAS˜ ",
+    "phone": "+1 999-999-999MUSTACHEMAN",
+    "email": "river@turntup.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +122,8 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Paper man",
+      "text": "I specialize in stealing the declaration of independence, returning it, and then stealing it again while never getting caught. *sent from my JailPhone 14*"
     }
   ]
 }
